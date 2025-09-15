@@ -4,3 +4,7 @@ main: me.matt5262.itemsTestPlugin.ItemsTestPlugin
 api-version: '1.21'
 authors: [Matt_5262]
 description: My first plugin ever
+commands:
+  menu:
+    description: Test
+    usage: /<command>
